@@ -1,7 +1,12 @@
 <div align="center" width="50">
 
+<details>
+<summary>👋 Hello Coders</summary>
+
 <img src="https://github.com/ralball74/ralball74/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/ralball74" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/ralball74/ralball74/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/ralball74" alt="Workspace"  width="40%"/><br> 
+
+</details>
 
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
@@ -51,3 +56,4 @@ class About extends Me {
     "OtherTools" : { "Photoshop", "Gimp", "Figma" }
   };
 }
+```
