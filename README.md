@@ -10,9 +10,11 @@
 
 </details>
 
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/)
+
 ![Totals Hits](https://komarev.com/ghpvc/?username=ralball74&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fralball74&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/+201281828186-grey?style=flat&logo=telegram)](https://t.me/+201281828186) <br>
+[![HITS](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fralball74&count_bg=%2379C83D&title=HITS)](https://github.com/ralball74)
+![telegram badge](https://img.shields.io/badge/+201281828186-grey?style=flat&logo=telegram) <br>
 </div>
 
 <hr></hr>
@@ -51,3 +53,5 @@ class About extends Me {
     "OtherTools" : { "Photoshop", "Gimp", "Figma" }
   };
 }
+
+```
